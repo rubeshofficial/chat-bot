@@ -1,6 +1,6 @@
 {
-    "name": "Vick-Ai", 
-    "logo": "https://te.legra.ph/file/1fe7ba504e18d33aeb761.png",
+    "name": "CHATBOT", 
+    "logo": "https://te.legra.ph/file/8b924418723b97177b552.jpg",
     "description": "An Advanced Telegram UserId Chatbot.",
     "env": {
         "STRING": {

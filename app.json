@@ -4,7 +4,7 @@
     "description": "An Advanced Telegram UserId Chatbot.",
     "env": {
         "STRING": {
-            "description": "BQHItBMAdCJcSGRND8LwPhyfGP3wyFKaPsdz9Kb2OHebeayOpUJ1_zBIbTDkMQIi0u3lvM7tOn5uWSNYHVuZk4GvcRkqIY0EkU5fvHCExnrUTcwus-zt4eOXuvaXaoWv3IUlNmF8vz3CkVnaIOORvanga7iNUV-bRdmq7ha8-FvrYO8eJt36rGQHP0pkvAT6qZ46FFl1H_gQHZ5p2mDRG_GlFxTBS8HGexcypy3V4LPezGUWEP8DpEX_Mqylowqe1h4OkrCgXMsfc78JUm_64lDxjFJi8iQuqrjqu7lQUUJ5Ch38bMPd6dg6yymDwRxlMA7OFDGvpa9jwFHcDVDqhNsCc5ZgcwAAAAHfEOFvAA",
+            "description": "BQHItBMAdCJcSGRND8LwPhyfGP3wyFKaPsdz9Kb2OHebeayOpUJ1_zBIbTDkMQIi0u3lvM7tOn5uWSNYHVuZk4GvcRkqIY0EkU5fvHCExnrUTcwus-zt4eOXuvaXaoWv3IUlNmF8vz3CkVnaIOORvanga7iNUV-bRdmq7ha8-FvrYO8eJt36rGQHP0pkvAT6qZ46FFl1H_gQHZ5p2mDRG_GlFxTBS8HGexcypy3V4",
             "required": true
         },        
         "MONGO_URL": {

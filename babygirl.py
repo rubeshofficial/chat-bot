@@ -7,10 +7,10 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", None) 
-API_HASH = os.environ.get("API_HASH", None) 
-STRING = os.environ.get("STRING", None) 
-MONGO_URL = os.environ.get("MONGO_URL", None)
+API_ID = os.environ.get("21883517", None) 
+API_HASH = os.environ.get("3bcae2750b491a61c5e4ab8edd07cd7f", None) 
+STRING = os.environ.get("BQHItBMAdCJcSGRND8LwPhyfGP3wyFKaPsdz9Kb2OHebeayOpUJ1_zBIbTDkMQIi0u3lvM7tOn5uWSNYHVuZk4GvcRkqIY0EkU5fvHCExnrUTcwus-zt4eOXuvaXaoWv3IUlNmF8vz3CkVnaIOORvanga7iNUV-bRdmq7ha8-FvrYO8eJt36rGQHP0pkvAT6qZ46FFl1H_gQHZ5p2mDRG_GlFxTBS8HGexcypy3V4LPezGUWEP8DpEX_Mqylowqe1h4OkrCgXMsfc78JUm_64lDxjFJi8iQuqrjqu7lQUUJ5Ch38bMPd6dg6yymDwRxlMA7OFDGvpa9jwFHcDVDqhNsCc5ZgcwAAAAHfEOFvAA", None) 
+MONGO_URL = os.environ.get("mongodb+srv://Demonking:demonking007@cluster0.cmrd5ce.mongodb.net/", None)
 
 
 bot = Client(STRING, API_ID, API_HASH)
